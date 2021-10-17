@@ -28,3 +28,4 @@ public class Task_10 {
         System.out.println(Integer.parseInt(c2, 2));
     }
 }
+//не понял как перевести если результат <0
