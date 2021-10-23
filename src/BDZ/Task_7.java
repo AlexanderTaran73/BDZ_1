@@ -11,7 +11,7 @@ public class Task_7 {
         }
     }
 
-    public static void tab(int st, int line) {
+    static void tab(int st, int line) {
         int[] array = new int[line];
         for (int i=0; i<line; i++){
             System.out.print((i+1)*st+"\t");
